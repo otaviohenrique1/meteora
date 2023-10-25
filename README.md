@@ -4,9 +4,9 @@
 
 Projeto de landing page feito no curso de 'Bootstrap5: crie uma landing page responsiva' da Alura.
 
-<!-- ## Link da pagina
+## Link da pagina
 
-- [Link](https://otaviohenrique1.github.io/serenatto/) -->
+- [Link](https://otaviohenrique1.github.io/meteora/)
 
 ## Scripts
 
