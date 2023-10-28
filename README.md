@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Projeto de pagina de loja 'Bootstrap5: crie uma landing page responsiva' da Alura.
+Projeto de pagina de loja feito no curso de 'Bootstrap5: crie uma landing page responsiva' da Alura.
 
 ## Link da pagina
 
